@@ -1,6 +1,6 @@
-# Development and leisure
+### Development and leisure
 
-## Introduction
+#### Introduction
 Writing about modern man's vision of leisure, Henri Lefebvre notes in his *Critique of Everyday Life*: 
 > "...[he] expects to find something in leisure which his work and his family or 'private life' do not provide. Where is his happiness to be found? He hardly knows, and does not even ask himself. In this way a 'world of leisure' tends to come into being entirely outside the everyday realm, and so purely artificial that it borders on the ideal. But how can this pure artificiality be created without permanent reference to ordinary life, to the constantly renewed contrast that will  embody this reference?[^1]. 
 
@@ -19,7 +19,7 @@ We have written elsewhere about the frame in which developmentalist rhetoric env
 
 Rather, what we wish to do in this paper is to illuminate those ways in which leisurely activity contributes to---and draws from---everyday life. Television shows can impact domestic violence rates, killing time with friends at the tea stall can impart vital social knowledge, and messing about at the cybercafe can give one the necessary familiarity with IT tools to use them as one sees fit. It is as Sutton-Smith says, in some sense: to ignore playful and leisurely activity is to ignore an important avenue by which important social and personal knowledge is transmitted and perpetuated. 
 
-## ICTD and entertainment
+#### ICTD and entertainment
 Kentaro Toyama has written elsewhere (<--how do we cite this? it was an email) of ICTD's approach to the question of fun and entertainment. Toyama characterizes ICTD's approach towards the question of fun as taking one of five different forms: dismissal, capitalization, association, terminalization, and unification. Dismissal rejects entertainment as a useful factor in the design of ICTD projects; capitalization takes advantage of fun to achieve other development goals; association conflates fun use of technology with other forms of development; terminalization interprets fun itself a worthwhile goal; and unification occurs when people feel their own efforts towards development to be fun in itself[^6]. 
 
 What is worth noting here is the decidedly ambiguous place fun has in these various characterizations: ranging from something completely *external* (and somewhat detrimental) to ICTD's concerns in a dismissive approach on one end, to becoming thoroughly integrated and *absorbed* into the work of ICTD  in the unified approach on the other end. 
@@ -28,7 +28,7 @@ Were ICTD to embrace the unified approach, and integrate fun and entertainment t
 
 In this paper, we will examine one ICTD project's use of entertainment to think more closely about this question of integrating intangible, affective qualities into the products that ICTD projects create. To this end, we look at the *Digital Green* project, headed by Rikin Gandhi, as an illustration of how ICTD can begin to think about the leisure and fun as frames through which to operate. We will examine the formal structure and characteristics of the locally-produced videos that comprise the *Digital Green* archive in order to understand how affective entertainment permeates the project. 
 
-## Finding leisure in the work of life
+#### Finding leisure in the work of life
 This paper draws from studies conducted in sociology, history, communications  and anthropology. Instead of looking at leisure activities writ broadly, we chose three sites of leisure upon which to focus: television serials, the practice of "timepass" or hanging out, and the space of the cybercafe. These leisure activities vary both in the centrality of technology to their conduct and the physical spaces in which they occur---our goal here was to decenter technology as the point of focus, and try and think more carefully about the affective and phenomenological experiences that were central to these leisurely activities. 
 
 There are three sites of interest in this paper: firstly, the practice of *adda* or timepass in public spaces like tea stalls, drawing from sociologist Craig Jeffrey's work with young men in northern Indian towns[^4] and historian Dipesh Chakrabarty's study of historical *addas* from nineteenth-century Kolkata[^5]. Killing time with friends, as we shall see, is not an entirely meaningless activity, even if it might lack explicit purpose. Instead, it allows a certain kind of person (mostly upper-caste, almost always male) to draw out the social connections that allow one a chance to get ahead in life---chances that may not arise from more formal institutions, such as schools or (in the case of Chakrabarty's nineteenth-century Bengali *bhadralok*), legalized public spaces and organizations to give voice to emergent nationalist concerns and anxieties. 
@@ -37,7 +37,7 @@ Secondly, we will look at the site of the cybercafe as a space of social possibi
 
 Lastly, we look at television serials, and their impact on domestic violence in northern violence. In looking at television serials, our aim is to think about how a "passive" activity like watching television can still create the necessary impetus for changing ways of living in the world. Lefebvre, in particular, cites images and the cinema as central to the leisurely activities of modern man, noting: "The constitutive elements of leisure are more likely to be images and films. And images and films which are (or at least appear to be) as far away from *real life* as possible.[^7]" In contrast to this claim that it is purely *fantastic* images and films that necessarily constitute leisurely activity, this examination will try and think about how popular television serials deeply, and meaningfully, affected the real life from which they were so distanced. 
 
-## Killing time: thinking about *adda* 
+#### Killing time: thinking about *adda* 
 The historian Dipesh Chakrabarty describes *adda* as "the practice of friends getting together for long, informal and unrigorous conversations[^8]." Chakrabarty, looking at early twentieth-century Kolkata, notes an interchangeability inherent in the term: *adda* can refer to both the *place* of conversation (the tea stall, the friend's verandah), as well as the practice of talking itself. 
 
 One of the key things Chakrabarty notes---a point central for our discussion of leisurely activity---is that *adda* is not imbued with some kind of purpose, nor it is lavished with uniform praise. It is---as both its interlocutors and critics note---idle talk, lazy talk, talk with friends, for relaxation[^9]. And as such, there is an inherent ambiguity, perhaps similar to that which Lefebvre notes is at the heart of everyday life, residing within the practice of *adda*. 
@@ -51,7 +51,7 @@ Craig Jeffrey, in his study of contemporary youth culture in the Uttar Pradesh t
 
 There are, of course, significant differences between the objects of Jeffrey's study and Chakrabarty's analysis. Chakrabarty's socially prominent upper- and upper-middle class subjects were perhaps far removed from the sense of temporal desolation that colors the lives of Jeffrey's younger, less socially powerful interlocutors. Yet a similar anxiety haunts the descriptions of both kinds of "hanging out": that of purpose, that of direction. The colonial Victorian criticism of of *adda* centered around its very non-productivity, its proximity to idleness that, as a social practice, lay distinct from the separation of home, work and leisure[^12]. 
 
-Jeffrey's informants are also ambivalent about the practice of *adda*, 
+Jeffrey's informants are also ambivalent about the practice of *adda*, as they tell him---they refer semi-humorously to themselves as *bekar*, which Jeffrey translates as "not at work", connotative of worthlessness and uselessness as well. They make jokes about themselves, about their aimlessness, and their wandering. It might seem, from this ironic self-deprecation and their sarcastic ribaldry with Jeffrey that *adda* is truly purposeless, truly without a goal or center of any kind. But, as Jeffrey points out, this is not exactly the case. *Adda*, Jeffrey says 
 
 [^1]: Lefebvre, Henri. *Critique of Everyday Life: Volume 1*. p. 34. Verso.
 
